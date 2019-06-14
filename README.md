@@ -1,5 +1,5 @@
-# Python Introduction
+# Python Introduction for Librarians
 ## Authors
-Ingrid 
+Ingrid Haas
 
 
